@@ -6,7 +6,7 @@ Features:-
 Browse through a curated list of popular tourism places in India.
 View beautiful images and descriptions of each destination.
 
-Technologies Used:- React, React Router, CSS, HTML, JavaScript
+Technologies Used:- React, CSS, HTML, JavaScript
 
 Contributing:- If you have suggestions, improvements, or want to add more tourist destinations, feel free to fork this repository and submit a pull request. Your contributions will be greatly appreciated!
 
